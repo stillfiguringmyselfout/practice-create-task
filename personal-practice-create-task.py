@@ -1,4 +1,13 @@
-state_fish_dictionary = ["Hawaii": "rectangular triggerfish" , "California": "garibaldi"]
+state_fish_list = ["Hawaii": "rectangular triggerfish" , "California": "garibaldi"}
 
-def dictdef():
+def define(dictionary, q, printmsg):
+
+  c = true
   
+  while c == true:
+    word = input(q)
+    if dictionary[word]
+      print(printmsg, word, " is ", dictionary[word], ".")
+
+define(state_fish_list, "Enter state: ", "The state fish of "
+    
